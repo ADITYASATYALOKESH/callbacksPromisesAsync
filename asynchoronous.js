@@ -25,5 +25,6 @@ const main=async()=>{
     console.log(results.name);
     console.log(results.email);
     console.log(results.address.city);
+    console.log("Finished");
 }
 main();
